@@ -1,6 +1,6 @@
-#Automated Detection of Fraudulent Rental Posts on Facebook: Combining LLM with Open Source Intelligence
+# Automated Detection of Fraudulent Rental Posts on Facebook: Combining LLM with Open Source Intelligence
 
-##Abstract
+## Abstract
 The growth of rental scams on social media, especially on Facebook, is becoming increasingly pervasive, which is particularly true among students searching for low-cost accommodation. Padova
 is a very competitive market for rent because of the University of Padova and its large population
 of Erasmus, local, and international students. Scammers target Facebook groups by posting fraudulent rental advertisements and comments under rent posts with unrealistically low prices, unclear
